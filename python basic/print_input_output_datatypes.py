@@ -123,7 +123,7 @@ temperature = [67,30,70,43,91]
 for item in temperature:
     print(item)
 
-numbers = range(10)
+numbers = range(10,100,5)
 
 for number in numbers:
     print(number)

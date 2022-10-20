@@ -96,3 +96,16 @@ else:
 print("ready")
 
 #execrise
+#master degree  required
+#more than 2 years of experience
+
+degree = input("what is your degree? master, bachelor or PHD")
+experience = input("how many years of experience do you have")
+
+if degree == "Master" or degree = "master" or degree = "PHD"  or degree = "phd":
+    if int(experience) >=2:
+        print("you are accepted for the interview")
+    else:
+        print("you dont have enough experince")
+else:
+    print("you dont have the required degree")            

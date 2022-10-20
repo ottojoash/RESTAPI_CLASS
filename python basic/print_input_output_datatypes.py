@@ -129,4 +129,7 @@ for number in numbers:
     print(number)
 
 
-#data structures    
+#data structures
+
+techlist = ["apple","microsoft","samsung","dell","hp"]
+

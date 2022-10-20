@@ -145,3 +145,12 @@ print(len(techlist))
 
 #find a particular item
 print("telsa" in techlist)
+#clearing a list =techlist.clear
+
+
+fruits= {'banana':0.49, 'orange':1.5, 'apple':1.09}
+
+#fruits ['banana'] = 0.49
+
+print(fruits)
+#fruits['melon']

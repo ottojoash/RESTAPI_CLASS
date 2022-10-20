@@ -108,4 +108,7 @@ if degree == "Master" or degree = "master" or degree = "PHD"  or degree = "phd":
     else:
         print("you dont have enough experince")
 else:
-    print("you dont have the required degree")            
+    print("you dont have the required degree") 
+
+
+#loops

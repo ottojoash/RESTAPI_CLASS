@@ -133,3 +133,15 @@ for number in numbers:
 
 techlist = ["apple","microsoft","samsung","dell","hp"]
 
+#removing values
+techlist.remove("samsung")
+#inserting
+techlist.insert(3,"telsa")
+
+print(techlist)
+
+#counting values
+print(len(techlist))
+
+#find a particular item
+print("telsa" in techlist)

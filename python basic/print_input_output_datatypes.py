@@ -122,3 +122,8 @@ else:
 temperature = [67,30,70,43,91]
 for item in temperature:
     print(item)
+
+numbers = range(10)
+
+for number in numbers:
+    print(number)

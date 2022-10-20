@@ -112,8 +112,12 @@ else:
 
 
 #loops
-i = 0
+#i = 0
 
-while i <= 5:
-    print(i)
-    i=i+1
+#while i <= 5:
+#    print(i)
+#    i=i+1
+
+
+temperature = [67,30,70,43,91]
+for item in temperature:

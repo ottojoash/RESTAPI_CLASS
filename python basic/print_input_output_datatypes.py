@@ -50,11 +50,11 @@ print(otto.upper())
 #lower case
 print(otto.lower())
 #finding a particular letter
-print(otto.fing("g"))
+#print(otto.fing("g"))
 #replacing elements
-print(otto.replace("love","just","like"))
+#print(otto.replace("love","just","like"))
 #finding the character or index of  a word
-print(otto.find("programing"))
+#print(otto.find("programing"))
 
 
 #artimetic operations
@@ -102,7 +102,7 @@ print("ready")
 degree = input("what is your degree? master, bachelor or PHD")
 experience = input("how many years of experience do you have")
 
-if degree == "Master" or degree = "master" or degree = "PHD"  or degree = "phd":
+if degree == "Master" or degree == "master" or degree == "PHD"  or degree == "phd":
     if int(experience) >=2:
         print("you are accepted for the interview")
     else:
